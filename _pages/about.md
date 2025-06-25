@@ -16,7 +16,7 @@ I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.c
  You can contact me via the following ways:
 
  
-[crapenter@mail.nku.edu.cn](mailto:crapenter@mail.nankai.edu.cn) (recommended)
+[crapenter@mail.nankai.edu.cn](mailto:crapenter@mail.nankai.edu.cn) (recommended)
 ==
 [crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) 
 
