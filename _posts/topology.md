@@ -1,7 +1,7 @@
 ---
 title: '拓扑'
 date: 2025-08-09
-permalink: /posts/2023/05/topology/
+permalink: /posts/2025/08/topology/
 tags:
   - 拓扑
     
