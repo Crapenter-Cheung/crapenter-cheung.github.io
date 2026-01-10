@@ -3,6 +3,8 @@ layout: pages
 title: "Useful Links"
 permalink: /useful_links/
 author_profile: true
+redirect_from:
+  -/resume
 ---
 
 {% include base_path %}
