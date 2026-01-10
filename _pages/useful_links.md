@@ -45,3 +45,5 @@ Jim Haglund (University of Pennsylvania): A key researcher in the shuffle theore
 Anna Punying (Baruch College): Research in algebraic combinatorics and algebraic geometry. [Link](https://annapunying.wixsite.com/punying-math)
 
 George H. Seelinger (University of Michigan): Catalanimals and Schubert calculus. [Link](https://ghseeli.github.io/)
+
+The International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC) is a major annual event in the combinatorial community. One can follow the cutting-edge developments in the field through its proceedings, published as Extended Abstracts.[Link](https://fpsac.org/)
