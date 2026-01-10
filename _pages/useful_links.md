@@ -3,13 +3,26 @@ title: "Useful links"
 permalink: /useful_links/
 author_profile: true
 
-* GTM全套书。（侵删！！！）[Link](https://github.com/chanqi4444/GTM/tree/master)
-* 一些课程的录像。[Link](https://tysunseven.github.io/video/)
-* 王作勤老师的主页。[Link](http://staff.ustc.edu.cn/~wangzuoq)
-* 杨金榜老师的主页。[Link](https://jbyang1987.github.io/)
-* 梁永祺老师的主页。[Link](https://faculty.ustc.edu.cn/yqliang/index.jsp)
-* 组合学家们的主页
-  * R. P. Stanley的主页。[Link](https://math.mit.edu/~rstan/)
-  * Haiman的主页。[Link](https://math.berkeley.edu/~mhaiman/)
-  * Per Alexandersson制作的对称函数的主页。[Link](https://www.symmetricfunctions.com/)
-  * Haglund的主页。[Link](https://www2.math.upenn.edu/~jhaglund/)
+**Useful Links & Resources**
+
+This page lists some valuable online resources I've found helpful in my studies and research.
+
+
+**Textbooks & Lecture Archives**
+Graduate Texts in Mathematics (GTM) Series: A collection of standard graduate-level mathematics textbooks. [Link](https://github.com/chanqi4444/GTM/tree/master)
+
+**Course Video Archive**
+A collection of lecture recordings on various mathematical topics. [Link](https://tysunseven.github.io/video/)
+
+IPAC (Important Papers in Algebraic Combinatorics).[Link](https://www2.math.upenn.edu/~jhaglund/IPAC/2024.html)
+
+**Combinatorics & Related Research**
+Mark Haiman (UC Berkeley): Renowned for work on Macdonald polynomials and Hilbert schemes. [Link](https://math.berkeley.edu/~mhaiman/)
+
+Symmetric Functions Website by Per Alexandersson: An essential encyclopedia for the theory of symmetric functions, with connections to combinatorics and geometry.[Link](https://www.symmetricfunctions.com/)
+
+Jim Haglund (University of Pennsylvania): A key researcher in the shuffle theorem and Macdonald polynomial.[Link](https://www2.math.upenn.edu/~jhaglund/)
+
+Anna Punying (Baruch College): Research on parking functions, Schur functions, and related areas. [Link](https://annapunying.wixsite.com/punying-math)
+
+George H. Seelinger (University of Michigan): Research in algebraic combinatorics and algebraic geometry. [Link](https://ghseeli.github.io/)
