@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Crapenter Cheung's homepage"
+title: "Carpenter Cheung's homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ You can contact me via the following ways:
 
 [crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) 
 
-[My personal website](https://crapenter-cheung.github.io/) 
+[My personal website](https://crapentercheung.github.io/) 
 
 Here is my CV: [Carpenter Cheung's CV.](../assets/CVen.pdf)
 
