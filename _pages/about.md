@@ -19,8 +19,6 @@ You can contact me via the following ways:
 
 [crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) 
 
-[My personal website](https://carpentercheung.github.io/) 
-
 Here is my CV: [Carpenter Cheung's CV.](../assets/CVen.pdf)
 
 2024年5月，适逢本科毕业之时，为母校南京师范大学制作了一份beamer模板，业已上传至[overleaf](https://www.overleaf.com/latex/templates/nnu-beamer-carpenter/gfppmtqybvpb)。这是从Verona中改编得到的。希望后来者使用。
