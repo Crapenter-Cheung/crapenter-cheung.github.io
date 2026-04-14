@@ -1,9 +1,10 @@
-<img width="2160" height="1378" alt="image" src="https://github.com/user-attachments/assets/41191eb3-b48f-4797-9ece-8004f8bdbfcd" />---
+---
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
 
 ## Preprints
 
