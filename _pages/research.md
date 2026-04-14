@@ -9,18 +9,17 @@ author_profile: true
 ## Preprints
 
 <div class="pub-card">
-  <h3>The The nonsymmetric compositional Delta theorem </h3>
+  <h3>The nonsymmetric compositional Delta theorem </h3>
   <p>
     with
     <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">
-      Dun Qiu
+      Dun Qiu.
     </a>
   </p>
   <p>
     <a href="https://arxiv.org/abs/2604.10226" target="_blank" rel="noopener noreferrer">
-      arXiv:2604.10226
+      [arXiv:2604.10226]
     </a>
-    
   </p>
 
   <details>
