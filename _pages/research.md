@@ -13,8 +13,9 @@ author_profile: true
   <p>
     with
     <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">
-      Dun Qiu.
+      Dun Qiu
     </a>
+    .
   </p>
   <p>
     <a href="https://arxiv.org/abs/2604.10226" target="_blank" rel="noopener noreferrer">
