@@ -91,7 +91,7 @@ author_profile: true
       </a>,
       and with the Schur positivity of LLT polynomials, completes the proof. The same
       method, using the
-      <a href="https://arxiv.org/abs/1904.07912" target="_blank" rel="noopener noreferrer">
+      <a href="https://arxiv.org/abs/1906.02633" target="_blank" rel="noopener noreferrer">
         \( e \)-positivity
       </a>
       of column LLT polynomials after the substitution \( q\mapsto q+1 \), also gives an
