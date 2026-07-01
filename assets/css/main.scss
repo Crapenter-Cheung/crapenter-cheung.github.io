@@ -101,3 +101,65 @@
   background: rgba(255, 255, 255, 0.75);
   line-height: 1.7;
 }
+
+
+/* Dark theme support for publication cards */
+html[data-theme="dark"] .pub-card,
+body[data-theme="dark"] .pub-card,
+html.dark .pub-card,
+body.dark .pub-card,
+html.dark-theme .pub-card,
+body.dark-theme .pub-card {
+  color: #e5e7eb;
+  border-color: #374151;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
+}
+
+html[data-theme="dark"] .pub-card:nth-of-type(odd),
+body[data-theme="dark"] .pub-card:nth-of-type(odd),
+html.dark .pub-card:nth-of-type(odd),
+body.dark .pub-card:nth-of-type(odd),
+html.dark-theme .pub-card:nth-of-type(odd),
+body.dark-theme .pub-card:nth-of-type(odd) {
+  background: #111827;
+}
+
+html[data-theme="dark"] .pub-card:nth-of-type(even),
+body[data-theme="dark"] .pub-card:nth-of-type(even),
+html.dark .pub-card:nth-of-type(even),
+body.dark .pub-card:nth-of-type(even),
+html.dark-theme .pub-card:nth-of-type(even),
+body.dark-theme .pub-card:nth-of-type(even) {
+  background: #1f2937;
+}
+
+html[data-theme="dark"] .pub-card a,
+body[data-theme="dark"] .pub-card a,
+html.dark .pub-card a,
+body.dark .pub-card a,
+html.dark-theme .pub-card a,
+body.dark-theme .pub-card a {
+  color: #93c5fd;
+}
+
+html[data-theme="dark"] .pub-card summary,
+body[data-theme="dark"] .pub-card summary,
+html.dark .pub-card summary,
+body.dark .pub-card summary,
+html.dark-theme .pub-card summary,
+body.dark-theme .pub-card summary {
+  color: #e5e7eb;
+  border-color: #4b5563;
+  background: #374151;
+}
+
+html[data-theme="dark"] .pub-card details p,
+body[data-theme="dark"] .pub-card details p,
+html.dark .pub-card details p,
+body.dark .pub-card details p,
+html.dark-theme .pub-card details p,
+body.dark-theme .pub-card details p {
+  color: #e5e7eb;
+  border-left-color: #64748b;
+  background: rgba(31, 41, 55, 0.85);
+}
