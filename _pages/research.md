@@ -64,7 +64,7 @@ author_profile: true
   <details>
     <summary>Abstract</summary>
     <p>
-      <a href="https://arxiv.org/abs/1509.07058" target="_blank" rel="noopener noreferrer">
+      <a href="https://math.berkeley.edu/~mhaiman/ftp/glenn-adriano/positivity.pdf" target="_blank" rel="noopener noreferrer">
         Bergeron, Garsia, Haiman and Tesler
       </a>
       conjectured in 1999 that, for all partitions \( \mu,\lambda \vdash n \), the polynomial
