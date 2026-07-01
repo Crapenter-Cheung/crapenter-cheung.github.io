@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Minhao Zhang (张旻昊 in Chinese, zhāng mín hào in pinyin). I'm a second-year graduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interests are in representation theory and (non) symmetric function, especially (non symmetric) Macdonald polynomial and (double) affine Hecke algebra.
+My name is Minhao Zhang (张旻昊 in Chinese, zhāng mín hào in pinyin). I'm a second-year graduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interests are in algebraic combinatorics, especially the combinatorics of symmetric functions and Macdonald polynomials.
 
 I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now supervised by [Dun Qiu](https://qiudun123.github.io/).
 
