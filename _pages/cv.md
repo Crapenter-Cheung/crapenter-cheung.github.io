@@ -32,7 +32,7 @@ Conference
 
 Skills
 ====
-* Proficient in Matlab and LaTeX.
+* Proficient in LaTeX, Matlab, Maple, SageMath.
 * Basic knowledge of C, Python and Julia.
 * Mandarin(native), English(fluent).
 
