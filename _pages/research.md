@@ -55,8 +55,8 @@ author_profile: true
   <!-- TODO: Replace this with the correct arXiv link once this preprint is available. -->
   <!--
   <p>
-    <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank" rel="noopener noreferrer">
-      [arXiv:XXXX.XXXXX]
+    <a href="https://arxiv.org/abs/2607.00940" target="_blank" rel="noopener noreferrer">
+      [arXiv:2607.00940]
     </a>
   </p>
   -->
