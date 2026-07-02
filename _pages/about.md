@@ -14,10 +14,9 @@ I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.c
 <span style="color: red; font-weight: bold;">I am actively seeking a PhD position in representation theory or algebraic combinatorics, with a planned start date in Fall 2027 or Spring 2028.</span>
 
 You can contact me via the following ways:
+[carpentercheungmath@gmail.com](mailto:crapenter@njnu.edu.cn) 
 
-[crapenter@mail.nankai.edu.cn](mailto:crapenter@mail.nankai.edu.cn) (recommended)
-
-[crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) 
+[crapenter@mail.nankai.edu.cn](mailto:crapenter@mail.nankai.edu.cn) 
 
 Here is my CV: [Carpenter Cheung's CV.](../assets/CVen.pdf)
 
