@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in applied mathematics, Nankai University, 2027(expected)
-  * Thesis: (Unconfirmed)
+  * Thesis: TBD
   * Advisor: [Prof. Dun Qiu](https://qiudun123.github.io/)
   * GPA: 4.00
 * B.S. in mathematics and applied Mathematics, Nanjing Normal University, 2024
