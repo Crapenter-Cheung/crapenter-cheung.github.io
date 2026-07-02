@@ -18,7 +18,7 @@ You can contact me via the following ways:
 
 [crapenter@mail.nankai.edu.cn](mailto:crapenter@mail.nankai.edu.cn) 
 
-Here is my CV: [Carpenter Cheung's CV.](../assets/minhao_zhang_cv.pdf)
+Here is my CV: [Minhao Zhang's CV.](../assets/minhao_zhang_cv.pdf)
 
 2024年5月，适逢本科毕业之时，为母校南京师范大学制作了一份beamer模板，业已上传至[overleaf](https://www.overleaf.com/latex/templates/nnu-beamer-carpenter/gfppmtqybvpb)。这是从Verona中改编得到的。希望后来者使用。
 
