@@ -52,14 +52,11 @@ author_profile: true
     <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>.
   </p>
 
-  <!-- TODO: Replace this with the correct arXiv link once this preprint is available. -->
-  <!--
   <p>
     <a href="https://arxiv.org/abs/2607.00940" target="_blank" rel="noopener noreferrer">
       [arXiv:2607.00940]
     </a>
   </p>
-  -->
 
   <details>
     <summary>Abstract</summary>
