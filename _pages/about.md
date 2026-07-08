@@ -14,15 +14,12 @@ During my undergraduate studies at Nanjing Normal University, I was very fortuna
 
 <p style="margin-top: 1em;">
   <span style="
-    color: #ff6b8a;
-    background: rgba(255, 107, 138, 0.16);
-    font-weight: 700;
-    padding: 0.18em 0.42em;
-    border-radius: 5px;
-    box-decoration-break: clone;
-    -webkit-box-decoration-break: clone;
-    text-shadow: 0 0 6px rgba(255, 107, 138, 0.35);
-  ">
+  color: #ffd166;
+  font-weight: 700;
+  background: rgba(255, 209, 102, 0.14);
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+">
     I am actively seeking a PhD position in representation theory or algebraic combinatorics, with a planned start date in Fall 2027 or Spring 2028.
   </span>
 </p>
