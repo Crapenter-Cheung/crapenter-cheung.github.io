@@ -17,7 +17,7 @@ Education
   * GPA: 4.00
 * B.S. in mathematics and applied Mathematics, Nanjing Normal University, 2024
   * Thesis: A note on the number of the complete bipartite subgraphs
-  * Thesis advisor: Prof. Alina F.Y. Zhao
+  * Thesis advisor: [Prof. Alina F.Y. Zhao](https://www.researchgate.net/profile/Alina-Zhao)
   * GPA: 3.88
 
 Conference
