@@ -29,7 +29,13 @@ Conference
 * (2024.11) [南开大学2024组合、代数与几何学术研讨会](../images/tianjin2024.png), Tianjin, China.
 * (2024.3) [组合数学及相关信息理论研讨会](../images/nanjing2024.png), Nanjing, China.
 
-
+Teaching
+====
+* Teaching Assistant, Linear Algebra (undergraduate course), Nankai University, Fall 2026.
+* Teaching Assistant, Calculus I (undergraduate course), Nankai University, Fall 2026.
+* Teaching Assistant, Macdonald Polynomial Theory (graduate course), Nankai University, Spring 2026.
+* Teaching Assistant, Calculus II (undergraduate course), Nankai University, Spring 2026.
+* Teaching Assistant, Calculus II (undergraduate course), Nankai University, Spring 2025.
 
 Skills
 ====
