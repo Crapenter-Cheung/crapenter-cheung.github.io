@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 
 <div class="pub-card">
-  <h3>The \( (km,kn) \) square paths theorem</h3>
+  <h3>The \( (km,kn)\)-square paths theorem</h3>
 
   <p>
     with
@@ -19,9 +19,9 @@ author_profile: true
     <summary>Abstract</summary>
     <p>
       For positive integers \( k,m,n \) with \( \gcd(m,n)=1 \), we prove a
-      \( (km,kn) \) square paths theorem: the symmetric function
+      \( (km,kn)\)-square paths theorem: the symmetric function
       \( (-1)^{k-1}\frac{[km]_q}{[k]_q}p_k[-MX^{m,n}]\cdot 1 \)
-      is a weighted sum over \( (km,kn) \) preference functions. This proves
+      is a weighted sum over \( (km,kn)\)-preference functions. This proves
       a corrected form of the conjecture of
       <a href="https://arxiv.org/abs/2206.00131" target="_blank" rel="noopener noreferrer">
         Iraci, Pagaria, Paolini, and Vanden Wyngaerd
@@ -29,7 +29,7 @@ author_profile: true
       and generalizes the square paths theorem of Sergel. We encode preference
       functions by row strict tableaux and closed state trails, compare them
       with parking functions at each touch value, and apply Mellit's
-      compositional \( (km,kn) \) shuffle theorem. Consequently, we also
+      compositional \( (km,kn)\)-shuffle theorem. Consequently, we also
       establish a fall Delta square theorem conjectured by
       <a href="https://arxiv.org/abs/2508.20935" target="_blank" rel="noopener noreferrer">
         Iraci, Pagaria, and Paolini
