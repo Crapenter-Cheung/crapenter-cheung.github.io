@@ -20,17 +20,20 @@ author_profile: true
     <p>
       For positive integers \( k,m,n \) with \( \gcd(m,n)=1 \), we prove a
       \( (km,kn)\)-square paths theorem: the symmetric function
-      \( (-1)^{k-1}\frac{[km]_q}{[k]_q}p_k[-MX^{m,n}]\cdot 1 \)
+      \( (-1)^{k-1}\frac{[km]_q}{[k]_q}p_k[-MX^{m,n}]\cdot1 \)
       is a weighted sum over \( (km,kn)\)-preference functions. This proves
       a corrected form of the conjecture of
       <a href="https://arxiv.org/abs/2206.00131" target="_blank" rel="noopener noreferrer">
         Iraci, Pagaria, Paolini, and Vanden Wyngaerd
       </a>
-      and generalizes the square paths theorem of Sergel. We encode preference
-      functions by row strict tableaux and closed state trails, compare them
-      with parking functions at each touch value, and apply Mellit's
-      compositional \( (km,kn)\)-shuffle theorem. Consequently, we also
-      establish a fall Delta square theorem conjectured by
+      and generalizes the square paths theorem of
+      <a href="https://arxiv.org/abs/1601.06249" target="_blank" rel="noopener noreferrer">Sergel</a>.
+      We encode preference functions by row strict tableaux and closed walks
+      on a set of states, compare them with parking functions for each value
+      of the touch statistic, and apply
+      <a href="https://arxiv.org/abs/1604.07456" target="_blank" rel="noopener noreferrer">Mellit</a>'s
+      compositional \( (km,kn)\)-shuffle theorem. Finally, we establish a
+      fall Delta square theorem conjectured by
       <a href="https://arxiv.org/abs/2508.20935" target="_blank" rel="noopener noreferrer">
         Iraci, Pagaria, and Paolini
       </a>.
@@ -58,17 +61,20 @@ author_profile: true
       </a>
       on the nabla operator and modified Hall&ndash;Littlewood polynomials:
       \( (-1)^{n-\ell(\mu)}\nabla\widetilde{H}_\mu[X;0,t] \) and
-      \( \nabla\omega\widetilde{H}_\mu[X;0,t^{-1}] \) are Schur positive, and
+      \( \nabla\omega\widetilde{H}_\mu[X;0,t^{-1}] \) are Schur positive,
+      and
       \( \nabla\omega\widetilde{H}_\mu[X;0,t^{-1}]
          -\nabla\omega\widetilde{H}_\nu[X;0,t^{-1}] \)
       is Schur positive when \( \mu \) dominates \( \nu \).
-      All three statements also hold for \( \nabla^r \) with \( r\geq 1 \).
+      All three statements also hold for \( \nabla^r \) with \( r\geq1 \).
       The main new step is an identity: when \( \mu \) covers \( \nu \),
       the difference
       \( \omega\widetilde{H}_\mu[X;0,t^{-1}]
          -\omega\widetilde{H}_\nu[X;0,t^{-1}] \)
       is minus a power of \( t \) times one LLT polynomial.
-      Using the Catalanimals and the Cauchy identity of
+      Using the <a href="https://arxiv.org/abs/2112.07063v2" target="_blank" rel="noopener noreferrer">
+       Catalanimals
+      </a> and the Cauchy identity of
       <a href="https://arxiv.org/abs/2112.07070" target="_blank" rel="noopener noreferrer">
         Blasiak, Haiman, Morse, Pun, and Seelinger
       </a>,
@@ -78,7 +84,6 @@ author_profile: true
     </p>
   </details>
 </div>
-
 
 <div class="pub-card">
   <h3>The Schur positivity of \( \nabla m_\mu \)</h3>
