@@ -32,16 +32,6 @@ Online Learning Seminar in Algebraic Combinatorics.[Link](http://faculty.bicmr.p
 
 **Combinatorics & Related Research**
 
-Mark Haiman (UC Berkeley): Renowned for work on Macdonald polynomials and Hilbert schemes. [Link](https://math.berkeley.edu/~mhaiman/)
-
-Jenifer Morse(University of Virginia): Introduce the k-schur function and its schur positivity and compositional shuffle theorem.[Link](https://morsej123.github.io/)
-
 Symmetric Functions Website by Per Alexandersson: An essential encyclopedia for the theory of symmetric functions, with connections to combinatorics and geometry.[Link](https://www.symmetricfunctions.com/)
 
-Jim Haglund (University of Pennsylvania): A key researcher in the shuffle theorem and Macdonald polynomial.[Link](https://www2.math.upenn.edu/~jhaglund/)
-
-Anna Pun (Baruch College): Research in algebraic combinatorics and algebraic geometry. [Link](https://annapunying.wixsite.com/punying-math)
-
-George H. Seelinger (University of Michigan): Catalanimals and Schubert calculus. [Link](https://ghseeli.github.io/)
-
-The International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC) is a major annual event in the combinatorial community. One can follow the cutting-edge developments in the field through its proceedings, published as Extended Abstracts.[Link](https://fpsac.org/)
+The International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC) is a major annual event in the combinatorial community. \[Link](https://fpsac.org/)
