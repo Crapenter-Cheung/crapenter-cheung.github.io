@@ -55,20 +55,6 @@ author_profile: true
   <details>
     <summary>Abstract</summary>
     <p>
-      <div class="pub-card">
-  <h3>The nabla operator, Hall&ndash;Littlewood polynomials and LLT polynomials</h3>
-
-  <p>
-    with
-    <a href="https://www.fgu-math.com/" target="_blank" rel="noopener noreferrer">Feng Gu</a>,
-    <a href="https://www.kangmingyang.com/" target="_blank" rel="noopener noreferrer">Mingyang Kang</a>,
-    and
-    <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>.
-  </p>
-
-  <details>
-    <summary>Abstract</summary>
-    <p>
       <a href="https://math.berkeley.edu/~mhaiman/ftp/glenn-adriano/positivity.pdf" target="_blank" rel="noopener noreferrer">
         Bergeron, Garsia, Haiman, and Tesler
       </a>
@@ -94,16 +80,15 @@ author_profile: true
       \( \omega\widetilde{H}_\mu[X;0,t^{-1}]
          -\omega\widetilde{H}_\nu[X;0,t^{-1}] \)
       is minus a power of \( t \) times one LLT polynomial.
-      Using the Catalanimals and the Cauchy identity of
-      <a href="https://arxiv.org/abs/2112.07070" target="_blank" rel="noopener noreferrer">
-        Blasiak, Haiman, Morse, Pun, and Seelinger
-      </a>,
-      we show that \( \nabla^r \) of this LLT polynomial is, up to sign,
-      a positive sum of LLT polynomials. We also extend the main results
+      Using the
+<a href="https://arxiv.org/abs/2112.07063" target="_blank" rel="noopener noreferrer">Catalanimals</a>
+and the Cauchy identity of
+<a href="https://arxiv.org/abs/2112.07070" target="_blank" rel="noopener noreferrer">
+  Blasiak, Haiman, Morse, Pun, and Seelinger
+</a>,
+we show that \( \nabla^r \) of this LLT polynomial is, up to sign,
+a positive sum of LLT polynomials. We also extend the main results
       to the Schiffmann algebra setting.
-    </p>
-  </details>
-</div>
     </p>
   </details>
 </div>
