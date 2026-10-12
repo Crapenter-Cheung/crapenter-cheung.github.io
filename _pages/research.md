@@ -55,32 +55,55 @@ author_profile: true
   <details>
     <summary>Abstract</summary>
     <p>
-      We prove two conjectures of
+      <div class="pub-card">
+  <h3>The nabla operator, Hall&ndash;Littlewood polynomials and LLT polynomials</h3>
+
+  <p>
+    with
+    <a href="https://www.fgu-math.com/" target="_blank" rel="noopener noreferrer">Feng Gu</a>,
+    <a href="https://www.kangmingyang.com/" target="_blank" rel="noopener noreferrer">Mingyang Kang</a>,
+    and
+    <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>.
+  </p>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
       <a href="https://math.berkeley.edu/~mhaiman/ftp/glenn-adriano/positivity.pdf" target="_blank" rel="noopener noreferrer">
         Bergeron, Garsia, Haiman, and Tesler
       </a>
-      on the nabla operator and modified Hall&ndash;Littlewood polynomials:
+      conjectured that
       \( (-1)^{n-\ell(\mu)}\nabla\widetilde{H}_\mu[X;0,t] \) and
       \( \nabla\omega\widetilde{H}_\mu[X;0,t^{-1}] \) are Schur positive,
-      and
+      and that
       \( \nabla\omega\widetilde{H}_\mu[X;0,t^{-1}]
          -\nabla\omega\widetilde{H}_\nu[X;0,t^{-1}] \)
       is Schur positive when \( \mu \) dominates \( \nu \).
+      The first statement follows from the compositional shuffle conjecture of
+      <a href="https://arxiv.org/abs/1008.0828" target="_blank" rel="noopener noreferrer">
+        Haglund, Morse, and Zabrocki
+      </a>,
+      proved by
+      <a href="https://arxiv.org/abs/1508.06239" target="_blank" rel="noopener noreferrer">
+        Carlsson and Mellit
+      </a>.
+      We prove the other two statements.
       All three statements also hold for \( \nabla^r \) with \( r\geq1 \).
       The main new step is an identity: when \( \mu \) covers \( \nu \),
       the difference
       \( \omega\widetilde{H}_\mu[X;0,t^{-1}]
          -\omega\widetilde{H}_\nu[X;0,t^{-1}] \)
       is minus a power of \( t \) times one LLT polynomial.
-      Using the <a href="https://arxiv.org/abs/2112.07063v2" target="_blank" rel="noopener noreferrer">
-       Catalanimals
-      </a> and the Cauchy identity of
+      Using the Catalanimals and the Cauchy identity of
       <a href="https://arxiv.org/abs/2112.07070" target="_blank" rel="noopener noreferrer">
         Blasiak, Haiman, Morse, Pun, and Seelinger
       </a>,
       we show that \( \nabla^r \) of this LLT polynomial is, up to sign,
       a positive sum of LLT polynomials. We also extend the main results
       to the Schiffmann algebra setting.
+    </p>
+  </details>
+</div>
     </p>
   </details>
 </div>
