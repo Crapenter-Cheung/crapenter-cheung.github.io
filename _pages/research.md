@@ -8,40 +8,6 @@ author_profile: true
 ## Preprints
 
 <div class="pub-card">
-  <h3>The \( (km,kn)\)-square paths theorem</h3>
-
-  <p>
-    with
-    <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>.
-  </p>
-
-  <details>
-    <summary>Abstract</summary>
-    <p>
-      For positive integers \( k,m,n \) with \( \gcd(m,n)=1 \), we prove a
-      \( (km,kn)\)-square paths theorem: the symmetric function
-      \( (-1)^{k-1}\frac{[km]_q}{[k]_q}p_k[-MX^{m,n}]\cdot1 \)
-      is a weighted sum over \( (km,kn)\)-preference functions. This proves
-      a corrected form of the conjecture of
-      <a href="https://arxiv.org/abs/2206.00131" target="_blank" rel="noopener noreferrer">
-        Iraci, Pagaria, Paolini, and Vanden Wyngaerd
-      </a>
-      and generalizes the square paths theorem of
-      <a href="https://arxiv.org/abs/1601.06249" target="_blank" rel="noopener noreferrer">Sergel</a>.
-      We encode preference functions by row strict tableaux and closed walks
-      on a set of states, compare them with parking functions for each value
-      of the touch statistic, and apply
-      <a href="https://arxiv.org/abs/1604.07456" target="_blank" rel="noopener noreferrer">Mellit</a>'s
-      compositional \( (km,kn)\)-shuffle theorem. Finally, we establish a
-      fall Delta square theorem conjectured by
-      <a href="https://arxiv.org/abs/2508.20935" target="_blank" rel="noopener noreferrer">
-        Iraci, Pagaria, and Paolini
-      </a>.
-    </p>
-  </details>
-</div>
-
-<div class="pub-card">
   <h3>The nabla operator, Hall&ndash;Littlewood polynomials and LLT polynomials</h3>
 
   <p>
@@ -52,6 +18,12 @@ author_profile: true
     <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>.
   </p>
 
+<p>
+    <a href="https://arxiv.org/abs/2610.16756" target="_blank" rel="noopener noreferrer">
+      [arXiv:2610.16756]
+    </a>
+  </p>
+  
   <details>
     <summary>Abstract</summary>
     <p>
@@ -92,6 +64,47 @@ a positive sum of LLT polynomials. We also extend the main results
     </p>
   </details>
 </div>
+
+<div class="pub-card">
+  <h3>The \( (km,kn)\)-square paths theorem</h3>
+
+  <p>
+    with
+    <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>.
+  </p>
+
+<p>
+    <a href="https://arxiv.org/abs/2610.16353" target="_blank" rel="noopener noreferrer">
+      [arXiv:2610.16353]
+    </a>
+  </p>
+  
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      For positive integers \( k,m,n \) with \( \gcd(m,n)=1 \), we prove a
+      \( (km,kn)\)-square paths theorem: the symmetric function
+      \( (-1)^{k-1}\frac{[km]_q}{[k]_q}p_k[-MX^{m,n}]\cdot1 \)
+      is a weighted sum over \( (km,kn)\)-preference functions. This proves
+      a corrected form of the conjecture of
+      <a href="https://arxiv.org/abs/2206.00131" target="_blank" rel="noopener noreferrer">
+        Iraci, Pagaria, Paolini, and Vanden Wyngaerd
+      </a>
+      and generalizes the square paths theorem of
+      <a href="https://arxiv.org/abs/1601.06249" target="_blank" rel="noopener noreferrer">Sergel</a>.
+      We encode preference functions by row strict tableaux and closed walks
+      on a set of states, compare them with parking functions for each value
+      of the touch statistic, and apply
+      <a href="https://arxiv.org/abs/1604.07456" target="_blank" rel="noopener noreferrer">Mellit</a>'s
+      compositional \( (km,kn)\)-shuffle theorem. Finally, we establish a
+      fall Delta square theorem conjectured by
+      <a href="https://arxiv.org/abs/2508.20935" target="_blank" rel="noopener noreferrer">
+        Iraci, Pagaria, and Paolini
+      </a>.
+    </p>
+  </details>
+</div>
+
 
 <div class="pub-card">
   <h3>The Schur positivity of \( \nabla m_\mu \)</h3>
