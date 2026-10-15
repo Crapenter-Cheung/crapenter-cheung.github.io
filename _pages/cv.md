@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in applied mathematics, Nankai University, 2027(expected)
-  * Thesis: TBD
+  * Thesis: The nonsymmetric compositional Delta theorem
   * Advisor: [Prof. Dun Qiu](https://qiudun123.github.io/)
   * GPA: 4.00
 * B.S. in mathematics and applied Mathematics, Nanjing Normal University, 2024
@@ -32,15 +32,12 @@ Conference
 Teaching
 ====
 * Teaching Assistant, Linear Algebra (undergraduate course), Nankai University, Fall 2026.
-* Teaching Assistant, Calculus I (undergraduate course), Nankai University, Fall 2026.
-* Teaching Assistant, Macdonald Polynomial Theory (graduate course), Nankai University, Spring 2026.
 * Teaching Assistant, Calculus II (undergraduate course), Nankai University, Spring 2026.
-* Teaching Assistant, Calculus II (undergraduate course), Nankai University, Spring 2025.
 
 Skills
 ====
 * Proficient in LaTeX, Matlab, Maple, SageMath.
-* Basic knowledge of C, Python and Julia.
+* Basic knowledge of C and Python.
 * Mandarin(native), English(fluent).
 
 
