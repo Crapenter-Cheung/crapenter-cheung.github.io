@@ -8,6 +8,40 @@ author_profile: true
 ## Preprints
 
 <div class="pub-card">
+  <h3>The Schur positivity of Lucas binomial differences</h3>
+
+  <p>
+    with Lilan Dai,
+    <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>,
+    and Weichen Wang.
+  </p>
+
+  <p>
+    <a href="https://arxiv.org/abs/2610.35465" target="_blank" rel="noopener noreferrer">
+      [arXiv:2610.35465]
+    </a>
+  </p>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      For positive integers \( a\le b\le c\le d \) with \( ad=bc \),
+      we prove that the Lucas binomial coefficients satisfy
+      \( (-1)^{a+1}(L_{b,c}[X]-L_{a,d}[X])
+         \in\mathbb{N}[e_1[X],e_2[X],h_2[X]] \),
+      resolving
+      <a href="https://arxiv.org/abs/2608.30979v1" target="_blank" rel="noopener noreferrer">Bergeron</a>'s
+      conjecture on Schur positivity in two variables.
+      We also prove the same positivity for
+      \( L_{u,v}[X]-e_1[X]^{uv-rs}L_{r,s}[X] \)
+      when \( rs &lt; uv \).
+      Using Lucas atoms, we establish \( e \)-positivity for
+      degree-adjusted Lucas multinomial differences under dominance order.
+    </p>
+  </details>
+</div>
+
+<div class="pub-card">
   <h3>The nabla operator, Hall&ndash;Littlewood polynomials and LLT polynomials</h3>
 
   <p>
