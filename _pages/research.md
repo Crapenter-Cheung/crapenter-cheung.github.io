@@ -8,6 +8,59 @@ author_profile: true
 ## Preprints
 
 <div class="pub-card">
+  <h3>A proof of the Theta conjecture</h3>
+
+  <p>
+    with
+    <a href="https://www.haojunbai.com/" target="_blank" rel="noopener noreferrer">Haojun Bai</a>,
+    <a href="https://www.fgu-math.com/" target="_blank" rel="noopener noreferrer">Feng Gu</a>,
+    <a href="https://zhuoweilin.com/" target="_blank" rel="noopener noreferrer">Zhuowei Lin</a>,
+    and
+    <a href="https://qiudun123.github.io/" target="_blank" rel="noopener noreferrer">Dun Qiu</a>.
+  </p>
+
+  <p>
+    <a href="https://arxiv.org/abs/2611.12451" target="_blank" rel="noopener noreferrer">
+      [arXiv:2611.12451]
+    </a>
+  </p>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      We prove the touching refinement of the Theta conjecture of
+      <a href="https://arxiv.org/abs/2609.17744" target="_blank" rel="noopener noreferrer">
+        Interdonato and Iraci</a>,
+      giving a formula for
+      \( \Theta_{e_\ell}\Theta_{e_k}\nabla E_{d,j} \)
+      as a weighted sum over parking functions with decorated rises
+      and valleys and touch number \( j \).
+      Summing over \( j \) gives the Theta conjecture.
+      As corollaries, we prove the valley Delta conjecture of
+      <a href="https://arxiv.org/abs/1509.07058" target="_blank" rel="noopener noreferrer">
+        Haglund, Remmel, and Wilson</a>
+      and its generalized version proposed by
+      <a href="https://arxiv.org/abs/1907.00268" target="_blank" rel="noopener noreferrer">
+        Qiu and Wilson</a>.
+      Our proof compares algebraic and combinatorial recurrences
+      using an extension of the plethystic substitution
+      \( X\mapsto(q-1)X \) to quasisymmetric functions.
+      The algebraic recurrence follows from an endomorphism
+      constructed by
+      <a href="https://arxiv.org/abs/2608.14836" target="_blank" rel="noopener noreferrer">
+        D'Adderio, Interdonato, Iraci, and Pagaria</a>
+      on the Dyck path algebra of
+      <a href="https://arxiv.org/abs/1508.06239" target="_blank" rel="noopener noreferrer">
+        Carlsson and Mellit</a>.
+      The combinatorial recurrence is obtained by introducing
+      signed labels and deleting the main diagonal.
+      The two recurrences have the same initial conditions,
+      which identifies the corresponding generating functions.
+    </p>
+  </details>
+</div>
+
+<div class="pub-card">
   <h3>The Schur positivity of Lucas binomial differences</h3>
 
   <p>
